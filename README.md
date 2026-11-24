@@ -53,4 +53,12 @@ For corporate media spend optimization, econometric modeling, and high-ticket B2
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/au/
+* **Diagnostic Suite:** https://tools.tavardt.com/au/
+* **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
