@@ -1,14 +1,13 @@
 # Paid Media ROI Intelligence and Mathematical Modeling | TAVARDT Australia
 
 [![ROI Calculator](https://img.shields.io/badge/TAVARDT-ROI%20Calculator-5b3cf5.svg)](https://tools.tavardt.com/au/paid-media-roi-calculator/)
-[![Jurisdiction](https://img.shields.io/badge/Jurisdiction-Australia-00C853.svg)](https://ag.tavardt.com/au/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Mathematical modeling utility for ROAS, ROI, and diminishing returns budget forecasting across Australian enterprise campaigns.
 
-Developed and maintained by the revenue engineering and paid performance division of **[TAVARDT Australia](https://ag.tavardt.com/au/)**.
+Developed and maintained by the revenue engineering and paid performance division of **TAVARDT Australia**.
 
----
+***
 
 ## Mathematical Modeling and Core Metrics
 
@@ -17,7 +16,7 @@ Developed and maintained by the revenue engineering and paid performance divisio
 * **Scale Forecasting with Diminishing Returns**: Algorithmic decay modeling (standard coefficient 0.85) projecting marginal efficiency and performance degradation as budgets scale.
 * **Structured Output Formats**: Terminal table output or JSON payloads ready for ingestion into analytics pipelines.
 
----
+***
 
 ## Installation and Quick Start
 
@@ -26,28 +25,28 @@ Requires Python 3.8 or higher using strictly standard library modules with zero 
 ```bash
 git clone https://github.com/TAVARDT-Australia/ads-roi-intelligence-au.git
 cd ads-roi-intelligence-au
-python roi_engine.py --spend 10000 --revenue 50000 --target-spend 25000
+python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000
 ```
 
 To export results in structured JSON format:
 
 ```bash
-python roi_engine.py --spend 10000 --revenue 50000 --target-spend 25000 --json
+python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 ```
 
 Also includes the Node.js and browser-compatible JavaScript utility in `calculator.js`.
 
----
+***
 
 ## Interactive Web Calculator
 
 For advanced scenario modeling, graphical simulations, and budget sensitivity charts, access the official web diagnostic suite:
 
-* **[Paid Media ROI and Scale Calculator](https://tools.tavardt.com/au/paid-media-roi-calculator/)**
-* **[TAVARDT Australia Corporate Portal](https://ag.tavardt.com/au/)**
+* **Paid Media ROI and Scale Calculator**
+* **TAVARDT Australia Corporate Portal**
 
----
+***
 
 ## Revenue Engineering Consulting
 
-For corporate media spend optimization, econometric modeling, and high-ticket B2B scale in Australia, contact **[TAVARDT Australia](https://ag.tavardt.com/au/contact/)**.
+For corporate media spend optimization, econometric modeling, and high-ticket B2B scale in Australia, contact **TAVARDT Australia**.
